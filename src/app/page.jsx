@@ -20,8 +20,8 @@ export default function page() {
         </form>
         <form action="#">
           <p>카테고리</p>
-          {categories.map((category) => (
-            <label htmlFor={category}>
+          {categories.map((category, index) => (
+            <label htmlFor={category} key={index}>
               #{category}
               <input type="checkbox" name={category} id={category} />
             </label>
