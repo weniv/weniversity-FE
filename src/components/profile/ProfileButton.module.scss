@@ -1,0 +1,38 @@
+.wrap {
+  position: relative;
+}
+.modal {
+  position: absolute;
+  top: 4.8rem;
+  right: 0px;
+  width: 13rem;
+  padding: 0.9rem 0.8rem;
+  box-sizing: border-box;
+  border-radius: 1rem;
+  border: 1px solid rgb(217, 219, 224);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  background: rgb(255, 255, 255);
+  font-size: 1.4rem;
+  z-index: 20;
+  display: none;
+
+  &.show {
+    display: block;
+  }
+
+  li {
+    display: block;
+    width: 100%;
+    text-align: left;
+    box-sizing: border-box;
+    padding: 0px 1rem;
+    line-height: 3rem;
+    border-radius: 0.8rem;
+    background: rgb(255, 255, 255);
+    transition: 0.3s;
+
+    &:hover {
+      background: var(--grayLv1);
+    }
+  }
+}

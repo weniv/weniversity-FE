@@ -1,10 +1,20 @@
 .form {
+  margin-left: auto;
+  position: relative;
 }
+
 .input {
-  min-width: 24rem;
+  min-width: 30rem;
   width: auto;
   border-radius: 2.4rem;
   border: 1px solid var(--grayLv3);
   padding: 0.6rem 1.2rem;
-  padding-right: 5rem;
+  padding-right: 3.6rem;
+}
+
+.button {
+  position: absolute;
+  right: 0;
+  top: 50%;
+  transform: translate(-50%, -50%);
 }
