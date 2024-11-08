@@ -6,5 +6,4 @@ const nextConfig = {
   assetPrefix: isProd ? "https://www.weniversity.co.kr" : undefined,
 };
 
-module.exports = nextConfig;
 export default nextConfig;
