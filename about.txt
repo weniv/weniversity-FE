@@ -1,0 +1,12 @@
+2:"$Sreact.fragment"
+3:I[9275,[],""]
+4:I[1343,[],""]
+5:I[3120,[],"OutletBoundary"]
+7:I[3120,[],"MetadataBoundary"]
+9:I[3120,[],"ViewportBoundary"]
+b:I[6130,[],""]
+1:HL["https://www.weniversity.co.kr/_next/static/css/3513c529f4017a00.css","style"]
+0:{"P":null,"b":"1wIvsGetgeM5Vmhom5C_Y","p":"https://www.weniversity.co.kr","c":["","about"],"i":false,"f":[[["",{"children":["about",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$2","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"https://www.weniversity.co.kr/_next/static/css/3513c529f4017a00.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ko-KR","children":[["$","head",null,{"children":["$","meta",null,{"name":"naver-site-verification","content":"c51f4cbf1d086158b6a1751c56d9483d32efb231"}]}],["$","body",null,{"className":"layout-flex","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"children":"not-found"}],"notFoundStyles":[]}]}]]}]]}],{"children":["about",["$","$2","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","about","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]]}],{"children":["__PAGE__",["$","$2","c",{"children":[["$","div",null,{"children":"about"}],null,["$","$L5",null,{"children":"$L6"}]]}],{},null]},null]},null],["$","$2","h",{"children":[null,["$","$2","-cI__B3K6VBFfKe5n5tZb",{"children":[["$","$L7",null,{"children":"$L8"}],["$","$L9",null,{"children":"$La"}],null]}]]}]]],"m":"$undefined","G":["$b","$undefined"],"s":false,"S":true}
+a:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+8:[["$","meta","0",{"charSet":"utf-8"}]]
+6:null

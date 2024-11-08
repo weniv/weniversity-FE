@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "image": "/images/camps/javascript/thumbnail.webp",
+    "type": "프론트엔드",
+    "title": "JavaScript 부트캠프 1기",
+    "teacher": "licat",
+    "price": "38000",
+    "discount": "30000"
+  },
+  {
+    "id": "2",
+    "image": "/images/camps/react/thumbnail.webp",
+    "type": "프론트엔드",
+    "title": "React mini 부트캠프 1기",
+    "teacher": "wade",
+    "price": "45000",
+    "discount": "45000"
+  }
+]
