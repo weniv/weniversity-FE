@@ -1,12 +1,13 @@
+import Link from "next/link";
 import React from "react";
 
 export default function AccountLayout({ children }) {
   return (
     <>
       <header>
-        <a href="/">
+        <Link href="/">
           <h1>weniv</h1>
-        </a>
+        </Link>
       </header>
       <main>{children}</main>
     </>
